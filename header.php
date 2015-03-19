@@ -4,6 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="google-site-verification" content="Rj4IZj1Q7axM5dPzjSzZAkux0j2egS_zBolICdhezIw" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 <?php if(is_home()): ?>
 	<title><?php bloginfo('name'); ?></title>
