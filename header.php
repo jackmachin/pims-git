@@ -20,7 +20,7 @@
 <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
 <link rel="stylesheet" href="<?php bloginfo('template_url'); ?>/css/nivo-slider.css" type="text/css" media="screen" />
-<link rel="stylesheet" href="<?php bloginfo('stylesheet_url'); ?>" type="text/css" media="screen" />
+<link rel="stylesheet" href="<?php bloginfo('stylesheet_directory'); ?>/style.min.css" type="text/css" media="screen" />
 <link media="screen" type="text/css" href="<?php bloginfo('template_url'); ?>/css/cookies/cookiecss.css" rel="stylesheet"/>
 
 <!--[if lte IE 7]>
