@@ -97,7 +97,6 @@
 
 		<h3 class="header-tel">01622 750 426</h3>
 		<?php wp_nav_menu('leftnav'); ?>
-		<p class="legal"><?php bloginfo('name'); ?> is authorised and regulated by the Financial Conduct Authority</p>
 
 <img src="http://www.hfspfg.co.uk/wp-content/themes/hfspfg/images/fp_logo.png" alt="Financial Planners Chartered Logo">
 
